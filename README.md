@@ -19,7 +19,7 @@
                 Rishabh Malakar
             </h2>
             <p>
-                Ward Number20,Mangal chowk Sihada <br>Dist.Khandwa M.P 450001
+                Ward Number20,Mangal chowk Sihada <br>Dist.Khandwa M.P 450001.
             </p>    
           <h3>
             <u>
